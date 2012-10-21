@@ -1,0 +1,6 @@
+name: CatGate
+main: me.blockcat.catgate.CatGate
+version: 1
+commands:
+  start:
+ 
