@@ -1,6 +1,10 @@
 name: CatGate
-main: me.blockcat.catgate.CatGate
-version: 1
+main: me.blockcat.catgame.CatGame
+version: 1.5
 commands:
-  start:
+  cg:
+  
+  #permissions:
+  # catgame.play
+  # catgame.end
  
